@@ -86,4 +86,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.
 
 ---  
-For more information, contact jerry.felipe@gmail.com.
+For more information, contact shivamdhir90@gmail.com.
