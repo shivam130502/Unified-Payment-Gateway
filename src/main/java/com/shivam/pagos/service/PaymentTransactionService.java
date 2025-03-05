@@ -36,6 +36,7 @@ public class PaymentTransactionService {
 
 	public Object getAllTransactions() {
 		// TODO Auto-generated method stub
+        currencyRateRepository.findAll();
 		return null;
 	}
 
